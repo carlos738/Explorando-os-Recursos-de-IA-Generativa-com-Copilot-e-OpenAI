@@ -86,6 +86,50 @@ Este laboratório tem como propósito explorar e analisar as funcionalidades do 
 
     Identificação das melhores práticas na geração de imagens por IA
     
-    
+    # 🚀 Laboratório de Exploração do Copilot e Ferramentas de IA
+
+## 📌 Visão Geral
+Este projeto visa explorar as funcionalidades do Copilot e das ferramentas de IA da OpenAI, incluindo:
+- **Filtros de conteúdo**
+- **Criação assistida por IA**
+- **Segurança na geração de respostas**
+- **Geração de imagens por IA**
+
+## 🎯 Objetivos
+- Testar os filtros de conteúdo para avaliar como a IA responde a diferentes temas e contextos.
+- Examinar a qualidade da criação assistida por IA em textos técnicos e criativos.
+- Analisar as medidas de segurança aplicadas na geração de respostas.
+- Explorar os recursos de geração de imagens baseados em descrições textuais.
+
+## 🚀 Funcionalidades
+### 🔍 **Filtros de Conteúdo**
+- Teste de moderação de respostas
+- Bloqueio de conteúdos sensíveis
+- Análise de viés nas respostas
+
+### ✍ **Criação Assistida por IA**
+- Redação automatizada de textos técnicos e criativos
+- Sugestões inteligentes para melhorar a estrutura textual
+- Tradução de textos para múltiplos idiomas
+
+### 🔐 **Segurança na IA**
+- Identificação de conteúdos inadequados
+- Proteção contra discursos de ódio e desinformação
+- Medidas para garantir ética na geração de respostas
+
+### 🎨 **Geração de Imagens**
+- Criação de imagens com base em descrições
+- Análise da qualidade e criatividade da arte gerada
+- Limitações de segurança na geração de imagens
+
+## 🏗 Estrutura do Projeto
+```sh
+📂 src/
+ ┣ 📜 ExploracaoCopilot.java
+ ┣ 📜 AnaliseSeguranca.java
+ ┣ 📜 GeracaoImagens.java
+ ┣ 📜 TesteFiltros.java
+ ┗ 📜 README.md
+
     
     
